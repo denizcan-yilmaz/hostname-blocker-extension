@@ -1,5 +1,5 @@
 # hostname-blocker-extension
-A simple chrome extension that blocks the websites with the provided hostnames.
+A simple chrome extension that blocks the websites with the provided hostnames. I have used plaing HTML, CSS and JS for the development. I have used the Chrome's local storage for storing data.
 
 ## Installation
 Since the extension is not on the market, you can install it on your browser by navigating to chrome://extension and uploading the extension directory.
